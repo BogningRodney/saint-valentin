@@ -1,11 +1,6 @@
 "use client"
 
-import Image from "next/image";
-import Link from "next/link";
 import { useState } from "react";
-import TemplateCard from "./component/templatecard/templateCard";
-import TemplateCard2 from "./component/templateCard2/templateCard2";
-import TemplateCard3 from "./component/templateCard3/templateCard3";
 import Question from "./question/page";
 
 export default function Home() {
